@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinFED
 - 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Codes
 - 📫 How to reach me ...
 
