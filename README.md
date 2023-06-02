@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justinFED
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Codes
