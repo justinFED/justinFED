@@ -9,6 +9,6 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=justinfed&show_icons=true&locale=en&layout=compact" alt="justinfed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=justinfed&show_icons=true&locale=en" alt="justinfed" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinfed&" alt="justinfed" /></p>
