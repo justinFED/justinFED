@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">A Passionate Frontend Developer from the Philippines</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
