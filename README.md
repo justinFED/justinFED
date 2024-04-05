@@ -3,7 +3,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=justinfed&show_icons=true&locale=en&layout=compact&theme=onedark" alt="justinfed" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=justinfed&show_icons=true&locale=en&layout=compact&theme=onedark" alt="justinfed" width="500"/></p>
 
 
 
