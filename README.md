@@ -7,4 +7,4 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=justinfed&theme=onedark" alt="justinfed" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=justinfed&theme=onedark" alt="justinfed" width="500"/></p>
